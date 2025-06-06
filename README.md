@@ -5,6 +5,7 @@
 ## Description
 This project involves processing and analyzing scraped data using PySpark, Redis, and Neo4j. The aim is to store, process, and analyze text data efficiently.
 Import the .backup file into Neo4J if you just want to see the nodes.
+There are 10104 nodes/words in the backup file.
 
 ![Image](https://github.com/Brynlai/Data-Engineering-Assignment-RDSY2S2/blob/main/LexNeo4J%20-%20Copy.png)
 
