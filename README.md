@@ -1,6 +1,6 @@
 # Data Engineering Assignment
 
-## Use your own API keys. All API keys in the code are not real.
+## Use your own API keys. All API keys hardcoded are not real. For illustration purposes only.
 
 ## Description
 This project involves processing and analyzing scraped data using PySpark, Redis, and Neo4j. The aim is to store, process, and analyze text data efficiently.
